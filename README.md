@@ -1,4 +1,27 @@
-# projetomaptriz
-Um projeto avaliativo da empresa Maptriz, vou disponibilizar os arquivos que desenvolvi em backend e frontend aqu para um review pela equipe técnica
+# ProjectMaptriz
 
-Nesse projeto eu usei as técnologias angular para o front-end e java sprig boot para o backend, eu consegui criar uma api para atualizar os contatos usando java springboot com os rquesitos pedidos, para deletar contatos e para listar os contatos do banco de dados que criei para esse projeto com o nome de bd_maptriz. No frontend eu criei em angular um component para criar o fomrulárioem HTML configurei os dados da api para adicionar contatos e configurei o cors para acessar o banco de dados usando o java spring boot tools, eu estava integrando a parte frontend com backend para fazer poder atualizar ou cadastrar um nivo usuário, mais eu estou fazendo com que o banco receba as informações digitadas pelo formulário no banco de dados, mais como hoje já é dia 2 vou enviar o que já fiz e vou finalizar a atividade amanhã mais já vou deixar disponível o que já fiz até aqui caso não de tempo de finalizar amanhã.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
